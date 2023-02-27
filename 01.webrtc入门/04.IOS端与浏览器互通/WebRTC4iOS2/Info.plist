@@ -16,7 +16,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>open camera</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>open mic</string>
+	<string>open microphone</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
